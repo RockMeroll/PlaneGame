@@ -1,0 +1,21 @@
+﻿生成启动时间为 2015/7/13 19:50:57。
+     1>项目“G:\飞机大战\c++-飞机大战\c++-飞机大战\飞机大战\PlaneGame\PlaneGame.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\PlaneGame.res" PlaneGame.rc 
+         
+     1>PlaneGame.rc(208): error RC2135: file not found: D:\qq_
+     1>PlaneGame.rc(210): error RC2135: file not found: D:\qq_
+     1>PlaneGame.rc(211): error RC2135: file not found: D:\qq_
+     1>PlaneGame.rc(212): error RC2135: file not found: D:\qq_
+     1>PlaneGame.rc(213): error RC2135: file not found: D:\qq_
+     1>PlaneGame.rc(214): error RC2135: file not found: D:\qq_
+     1>PlaneGame.rc(215): error RC2135: file not found: D:\qq_
+     1>PlaneGame.rc(216): error RC2135: file not found: D:\qq_
+     1>PlaneGame.rc(217): error RC2135: file not found: D:\qq_
+     1>PlaneGame.rc(218): error RC2135: file not found: D:\qq_
+     1>PlaneGame.rc(219): error RC2135: file not found: D:\qq_
+     1>已完成生成项目“G:\飞机大战\c++-飞机大战\c++-飞机大战\飞机大战\PlaneGame\PlaneGame.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.46
